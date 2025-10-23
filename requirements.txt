@@ -1,0 +1,15 @@
+knitr
+rmarkdown
+ggplot2
+dplyr
+tidyr
+carData
+class
+pROC
+plotROC
+ggmosaic
+ISLR
+MASS
+ggfortify
+GGally
+readr
